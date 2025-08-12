@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run StudyPro App",
+      "type": "shell",
+      "command": "flutter run --debug",
+      "group": "build",
+      "isBackground": true,
+      "problemMatcher": ["$flutter"]
+    }
+  ]
+}
