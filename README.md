@@ -1,1 +1,1 @@
-<img src="assets/job_applications.jpg" width="300"/>
+<img src="assets/screenshots.job_applications.jpg" width="300"/>
